@@ -3,11 +3,11 @@ title: "Activités"
 order: 1
 in_menu: true
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+L’association promeut la biodynamie
 
 ## Nos activités
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+Voici les différents temps forts de l'année :
 
 - L'assemblée générale et son après midi à thème, en début d'année civile
 - Les Causeries Biodynamiques, en été ou en hiver, un week end à la fois d'échanges et festif
@@ -17,3 +17,4 @@ A titre indicatif, les activités commerciales possibles sont (liste non-exhaust
 - Formations professionnels Vivea
 - Stands et Forum, par exemple convergences bio, l'écofestival de clion, 
 - Démarche évolution en biodynamie, issu du Quercy Rouergue 
+- Liens avec le MABD : participation au groupe national de préparations, ... 
